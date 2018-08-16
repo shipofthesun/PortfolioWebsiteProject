@@ -1,0 +1,8 @@
+-tally mark app
+-todo list
+-calender
+-calculator
+-news crawler app that goes to various news sites to search for articles related to a query entered by the user. The result is a list of links to articles
+-simple message posting web app
+	-perhaps match users with other users by searching words in posts
+-create a git remote repository web app*
